@@ -10,26 +10,21 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Applied Mathematics",
+    "Numerical Analysis",
+    "Simulations"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "Engineering studies in Applied Mathematics"
+  institution = "Ecole Polytechnique Fédérale de Lausanne"
+  year = 2017-2018
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "Engineering studies in Applied Mathematics"
+  institution = "Poytech Sorbonne"
+  year = 2015-2018
  
 +++
 
