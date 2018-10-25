@@ -19,12 +19,12 @@ weight = 5
 [[education.courses]]
   course = "Engineering studies in Applied Mathematics"
   institution = "Ecole Polytechnique Fédérale de Lausanne"
-  year = 2017-2018
+  year = 2017
 
 [[education.courses]]
   course = "Engineering studies in Applied Mathematics"
   institution = "Poytech Sorbonne"
-  year = 2015-2018
+  year = 2015
  
 +++
 
