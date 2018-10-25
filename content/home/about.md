@@ -18,13 +18,8 @@ weight = 5
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "Engineering studies in Applied Mathematics"
-  institution = "Ecole Polytechnique Fédérale de Lausanne"
-  year = 2017
-
-[[education.courses]]
-  course = "Engineering studies in Applied Mathematics"
   institution = "Poytech Sorbonne"
-  year = 2015
+  year = 2018
  
 +++
 
