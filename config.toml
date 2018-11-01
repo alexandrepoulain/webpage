@@ -250,14 +250,24 @@ enableGitInfo = false
     link = "mailto:poulain@ljll.math.upmc.fr"
 
   [[params.social]]
-    icon = "twitter"
+    icon = "linkedin"
     icon_pack = "fab"
-    link = "//twitter.com/GeorgeCushen"
+    link = "https://www.linkedin.com/in/alexandre-poulain-8317bbb2/"
 
   [[params.social]]
-    icon = "google-scholar"
+    icon = "researchgate"
     icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    link = "https://www.researchgate.net/profile/Alexandre_Poulain"
+
+#  [[params.social]]
+#    icon = "twitter"
+#    icon_pack = "fab"
+#    link = "//twitter.com/GeorgeCushen"
+
+#  [[params.social]]
+#    icon = "google-scholar"
+#    icon_pack = "ai"
+#    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
   [[params.social]]
     icon = "github"
